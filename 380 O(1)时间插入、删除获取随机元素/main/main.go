@@ -25,6 +25,8 @@ func main() {
 	//strArr := []string{"RandomizedSet", "insert", "remove", "insert", "getRandom", "remove", "insert", "getRandom"}
 	//fmt.Println(randomString)
 
+	// 1. 这里如何对这个结构体进行使用 将以上数据进行测试？
+
 }
 
 type RandomizedSet struct {
